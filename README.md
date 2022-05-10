@@ -1,5 +1,6 @@
 # GarbageGo
 ESC204 Praxis III Final Design Project
+
 Afrin Prio, Fengyuan Liu, Mary Cheng, Nathanael Kusanda, Patrick Samaha, Vivek Dhande
 
 GarbageGo is a garbage bin train system complemented by a text messaging system, aiming to build upon Gazipur's current system of informal waste colleciton to more effectively and efficiently capture waste. By involving separate, regionalised trains for recycling, organic, and garbage, the system allows for the separate movement of different types of waste, better enabling sorting and processing.  
